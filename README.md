@@ -1,6 +1,6 @@
-# Link to J. Blevins' W&B public project for this exercise
+# Link to J. Blevins' W&B public project and GitHub repository:
 https://wandb.ai/jblev51-western-governors-university/nyc_airbnb?nw=nwuserjblev51
-
+https://github.com/JJ982/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
